@@ -10,18 +10,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/reshape-design/reshape-releases/releases/latest/download/Reshape-arm64.dmg"><strong>Download for macOS</strong></a>
+  <a href="https://github.com/reshape-design/releases/releases/latest/download/Reshape-arm64.dmg"><strong>Download for macOS</strong></a>
   &nbsp;·&nbsp;
   <a href="https://www.reshape-design.app">Open in the browser</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/reshape-design/reshape-releases/releases">All releases</a>
+  <a href="https://github.com/reshape-design/releases/releases">All releases</a>
 </p>
 
 ---
 
 ## Install
 
-1. Download `Reshape-arm64.dmg` from the [latest release](https://github.com/reshape-design/reshape-releases/releases/latest).
+1. Download `Reshape-arm64.dmg` from the [latest release](https://github.com/reshape-design/releases/releases/latest).
 2. Open it and drag **Reshape** into your Applications folder.
 3. Start Reshape and sign in. Your browser opens for the sign-in and sends you back to the app.
 
